@@ -10,4 +10,4 @@ Para el funcionamiento de esta pagina es necesario saber conceptos importantes p
   una vez que ya tengas todos los nombres que quieras.
 
 - le daras en el boton sortear nombres.
-- saldra el resultado de color <span>verde</span> justo arriba del boton sortear jugadores 
+- saldra el resultado de color <b>verde</b> justo arriba del boton sortear jugadores 
